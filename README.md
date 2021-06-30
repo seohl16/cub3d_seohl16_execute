@@ -1,15 +1,25 @@
 # cub3d_shl13
 cub3d project 
 
+### 20210630 
+
+no libft / src / bonus files 
+
+execute it by 
+```
+./cub3d maps/basic.cub
+```
+or 
+```
+./cub3d_bonus maps/bonus.cub
+```
+on terminal 
+
+
 20210209 17:49
 The default branch has been renamed!
 main is now named master
 
-If you have a local clone, you can update it by running:
-
-git branch -m main master
-git fetch origin
-git branch -u origin/master master
 
 
 
